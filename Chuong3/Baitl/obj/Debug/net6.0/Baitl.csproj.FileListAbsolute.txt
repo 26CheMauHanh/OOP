@@ -1,0 +1,15 @@
+D:\OOP\Chuong3\Baitl\bin\Debug\net6.0\Baitl.exe
+D:\OOP\Chuong3\Baitl\bin\Debug\net6.0\Baitl.deps.json
+D:\OOP\Chuong3\Baitl\bin\Debug\net6.0\Baitl.runtimeconfig.json
+D:\OOP\Chuong3\Baitl\bin\Debug\net6.0\Baitl.dll
+D:\OOP\Chuong3\Baitl\bin\Debug\net6.0\Baitl.pdb
+D:\OOP\Chuong3\Baitl\obj\Debug\net6.0\Baitl.csproj.AssemblyReference.cache
+D:\OOP\Chuong3\Baitl\obj\Debug\net6.0\Baitl.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Chuong3\Baitl\obj\Debug\net6.0\Baitl.AssemblyInfoInputs.cache
+D:\OOP\Chuong3\Baitl\obj\Debug\net6.0\Baitl.AssemblyInfo.cs
+D:\OOP\Chuong3\Baitl\obj\Debug\net6.0\Baitl.csproj.CoreCompileInputs.cache
+D:\OOP\Chuong3\Baitl\obj\Debug\net6.0\Baitl.dll
+D:\OOP\Chuong3\Baitl\obj\Debug\net6.0\refint\Baitl.dll
+D:\OOP\Chuong3\Baitl\obj\Debug\net6.0\Baitl.pdb
+D:\OOP\Chuong3\Baitl\obj\Debug\net6.0\Baitl.genruntimeconfig.cache
+D:\OOP\Chuong3\Baitl\obj\Debug\net6.0\ref\Baitl.dll

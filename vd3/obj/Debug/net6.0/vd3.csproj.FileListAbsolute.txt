@@ -1,0 +1,15 @@
+D:\OOP\vd3\bin\Debug\net6.0\vd3.exe
+D:\OOP\vd3\bin\Debug\net6.0\vd3.deps.json
+D:\OOP\vd3\bin\Debug\net6.0\vd3.runtimeconfig.json
+D:\OOP\vd3\bin\Debug\net6.0\vd3.dll
+D:\OOP\vd3\bin\Debug\net6.0\vd3.pdb
+D:\OOP\vd3\obj\Debug\net6.0\vd3.csproj.AssemblyReference.cache
+D:\OOP\vd3\obj\Debug\net6.0\vd3.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\vd3\obj\Debug\net6.0\vd3.AssemblyInfoInputs.cache
+D:\OOP\vd3\obj\Debug\net6.0\vd3.AssemblyInfo.cs
+D:\OOP\vd3\obj\Debug\net6.0\vd3.csproj.CoreCompileInputs.cache
+D:\OOP\vd3\obj\Debug\net6.0\vd3.dll
+D:\OOP\vd3\obj\Debug\net6.0\refint\vd3.dll
+D:\OOP\vd3\obj\Debug\net6.0\vd3.pdb
+D:\OOP\vd3\obj\Debug\net6.0\vd3.genruntimeconfig.cache
+D:\OOP\vd3\obj\Debug\net6.0\ref\vd3.dll

@@ -1,0 +1,15 @@
+D:\OOP\Chuong3\vd2\bin\Debug\net6.0\vd2.exe
+D:\OOP\Chuong3\vd2\bin\Debug\net6.0\vd2.deps.json
+D:\OOP\Chuong3\vd2\bin\Debug\net6.0\vd2.runtimeconfig.json
+D:\OOP\Chuong3\vd2\bin\Debug\net6.0\vd2.dll
+D:\OOP\Chuong3\vd2\bin\Debug\net6.0\vd2.pdb
+D:\OOP\Chuong3\vd2\obj\Debug\net6.0\vd2.csproj.AssemblyReference.cache
+D:\OOP\Chuong3\vd2\obj\Debug\net6.0\vd2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Chuong3\vd2\obj\Debug\net6.0\vd2.AssemblyInfoInputs.cache
+D:\OOP\Chuong3\vd2\obj\Debug\net6.0\vd2.AssemblyInfo.cs
+D:\OOP\Chuong3\vd2\obj\Debug\net6.0\vd2.csproj.CoreCompileInputs.cache
+D:\OOP\Chuong3\vd2\obj\Debug\net6.0\vd2.dll
+D:\OOP\Chuong3\vd2\obj\Debug\net6.0\refint\vd2.dll
+D:\OOP\Chuong3\vd2\obj\Debug\net6.0\vd2.pdb
+D:\OOP\Chuong3\vd2\obj\Debug\net6.0\vd2.genruntimeconfig.cache
+D:\OOP\Chuong3\vd2\obj\Debug\net6.0\ref\vd2.dll

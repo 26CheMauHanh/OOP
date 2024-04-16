@@ -1,0 +1,15 @@
+D:\OOP\Chuong2\vd1\obj\Debug\net6.0\vd1.csproj.AssemblyReference.cache
+D:\OOP\Chuong2\vd1\obj\Debug\net6.0\vd1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Chuong2\vd1\obj\Debug\net6.0\vd1.AssemblyInfoInputs.cache
+D:\OOP\Chuong2\vd1\obj\Debug\net6.0\vd1.AssemblyInfo.cs
+D:\OOP\Chuong2\vd1\obj\Debug\net6.0\vd1.csproj.CoreCompileInputs.cache
+D:\OOP\Chuong2\vd1\bin\Debug\net6.0\vd1.exe
+D:\OOP\Chuong2\vd1\bin\Debug\net6.0\vd1.deps.json
+D:\OOP\Chuong2\vd1\bin\Debug\net6.0\vd1.runtimeconfig.json
+D:\OOP\Chuong2\vd1\bin\Debug\net6.0\vd1.dll
+D:\OOP\Chuong2\vd1\bin\Debug\net6.0\vd1.pdb
+D:\OOP\Chuong2\vd1\obj\Debug\net6.0\vd1.dll
+D:\OOP\Chuong2\vd1\obj\Debug\net6.0\refint\vd1.dll
+D:\OOP\Chuong2\vd1\obj\Debug\net6.0\vd1.pdb
+D:\OOP\Chuong2\vd1\obj\Debug\net6.0\vd1.genruntimeconfig.cache
+D:\OOP\Chuong2\vd1\obj\Debug\net6.0\ref\vd1.dll

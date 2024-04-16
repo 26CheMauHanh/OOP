@@ -1,0 +1,15 @@
+D:\OOP\Bai1_tl\bin\Debug\net6.0\Bai1_tl.exe
+D:\OOP\Bai1_tl\bin\Debug\net6.0\Bai1_tl.deps.json
+D:\OOP\Bai1_tl\bin\Debug\net6.0\Bai1_tl.runtimeconfig.json
+D:\OOP\Bai1_tl\bin\Debug\net6.0\Bai1_tl.dll
+D:\OOP\Bai1_tl\bin\Debug\net6.0\Bai1_tl.pdb
+D:\OOP\Bai1_tl\obj\Debug\net6.0\Bai1_tl.csproj.AssemblyReference.cache
+D:\OOP\Bai1_tl\obj\Debug\net6.0\Bai1_tl.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Bai1_tl\obj\Debug\net6.0\Bai1_tl.AssemblyInfoInputs.cache
+D:\OOP\Bai1_tl\obj\Debug\net6.0\Bai1_tl.AssemblyInfo.cs
+D:\OOP\Bai1_tl\obj\Debug\net6.0\Bai1_tl.csproj.CoreCompileInputs.cache
+D:\OOP\Bai1_tl\obj\Debug\net6.0\Bai1_tl.dll
+D:\OOP\Bai1_tl\obj\Debug\net6.0\refint\Bai1_tl.dll
+D:\OOP\Bai1_tl\obj\Debug\net6.0\Bai1_tl.pdb
+D:\OOP\Bai1_tl\obj\Debug\net6.0\Bai1_tl.genruntimeconfig.cache
+D:\OOP\Bai1_tl\obj\Debug\net6.0\ref\Bai1_tl.dll

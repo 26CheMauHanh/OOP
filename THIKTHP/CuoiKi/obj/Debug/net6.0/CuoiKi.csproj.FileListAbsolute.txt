@@ -1,0 +1,15 @@
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\bin\Debug\net6.0\CuoiKi.exe
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\bin\Debug\net6.0\CuoiKi.deps.json
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\bin\Debug\net6.0\CuoiKi.runtimeconfig.json
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\bin\Debug\net6.0\CuoiKi.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\bin\Debug\net6.0\CuoiKi.pdb
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\obj\Debug\net6.0\CuoiKi.csproj.AssemblyReference.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\obj\Debug\net6.0\CuoiKi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\obj\Debug\net6.0\CuoiKi.AssemblyInfoInputs.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\obj\Debug\net6.0\CuoiKi.AssemblyInfo.cs
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\obj\Debug\net6.0\CuoiKi.csproj.CoreCompileInputs.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\obj\Debug\net6.0\CuoiKi.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\obj\Debug\net6.0\refint\CuoiKi.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\obj\Debug\net6.0\CuoiKi.pdb
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\obj\Debug\net6.0\CuoiKi.genruntimeconfig.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\THIKTHP\CuoiKi\obj\Debug\net6.0\ref\CuoiKi.dll

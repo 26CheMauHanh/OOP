@@ -1,0 +1,15 @@
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\bin\Debug\net6.0\Hanh.exe
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\bin\Debug\net6.0\Hanh.deps.json
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\bin\Debug\net6.0\Hanh.runtimeconfig.json
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\bin\Debug\net6.0\Hanh.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\bin\Debug\net6.0\Hanh.pdb
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\obj\Debug\net6.0\Hanh.csproj.AssemblyReference.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\obj\Debug\net6.0\Hanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\obj\Debug\net6.0\Hanh.AssemblyInfoInputs.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\obj\Debug\net6.0\Hanh.AssemblyInfo.cs
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\obj\Debug\net6.0\Hanh.csproj.CoreCompileInputs.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\obj\Debug\net6.0\Hanh.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\obj\Debug\net6.0\refint\Hanh.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\obj\Debug\net6.0\Hanh.pdb
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\obj\Debug\net6.0\Hanh.genruntimeconfig.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\ThiGK\Hanh\obj\Debug\net6.0\ref\Hanh.dll

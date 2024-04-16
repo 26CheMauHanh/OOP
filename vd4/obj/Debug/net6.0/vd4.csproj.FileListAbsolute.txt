@@ -1,0 +1,15 @@
+D:\OOP\vd4\bin\Debug\net6.0\vd4.exe
+D:\OOP\vd4\bin\Debug\net6.0\vd4.deps.json
+D:\OOP\vd4\bin\Debug\net6.0\vd4.runtimeconfig.json
+D:\OOP\vd4\bin\Debug\net6.0\vd4.dll
+D:\OOP\vd4\bin\Debug\net6.0\vd4.pdb
+D:\OOP\vd4\obj\Debug\net6.0\vd4.csproj.AssemblyReference.cache
+D:\OOP\vd4\obj\Debug\net6.0\vd4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\vd4\obj\Debug\net6.0\vd4.AssemblyInfoInputs.cache
+D:\OOP\vd4\obj\Debug\net6.0\vd4.AssemblyInfo.cs
+D:\OOP\vd4\obj\Debug\net6.0\vd4.csproj.CoreCompileInputs.cache
+D:\OOP\vd4\obj\Debug\net6.0\vd4.dll
+D:\OOP\vd4\obj\Debug\net6.0\refint\vd4.dll
+D:\OOP\vd4\obj\Debug\net6.0\vd4.pdb
+D:\OOP\vd4\obj\Debug\net6.0\vd4.genruntimeconfig.cache
+D:\OOP\vd4\obj\Debug\net6.0\ref\vd4.dll

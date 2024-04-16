@@ -1,0 +1,15 @@
+D:\OOP\TuHoc\Bai6\bin\Debug\net6.0\Bai6.exe
+D:\OOP\TuHoc\Bai6\bin\Debug\net6.0\Bai6.deps.json
+D:\OOP\TuHoc\Bai6\bin\Debug\net6.0\Bai6.runtimeconfig.json
+D:\OOP\TuHoc\Bai6\bin\Debug\net6.0\Bai6.dll
+D:\OOP\TuHoc\Bai6\bin\Debug\net6.0\Bai6.pdb
+D:\OOP\TuHoc\Bai6\obj\Debug\net6.0\Bai6.csproj.AssemblyReference.cache
+D:\OOP\TuHoc\Bai6\obj\Debug\net6.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\TuHoc\Bai6\obj\Debug\net6.0\Bai6.AssemblyInfoInputs.cache
+D:\OOP\TuHoc\Bai6\obj\Debug\net6.0\Bai6.AssemblyInfo.cs
+D:\OOP\TuHoc\Bai6\obj\Debug\net6.0\Bai6.csproj.CoreCompileInputs.cache
+D:\OOP\TuHoc\Bai6\obj\Debug\net6.0\Bai6.dll
+D:\OOP\TuHoc\Bai6\obj\Debug\net6.0\refint\Bai6.dll
+D:\OOP\TuHoc\Bai6\obj\Debug\net6.0\Bai6.pdb
+D:\OOP\TuHoc\Bai6\obj\Debug\net6.0\Bai6.genruntimeconfig.cache
+D:\OOP\TuHoc\Bai6\obj\Debug\net6.0\ref\Bai6.dll

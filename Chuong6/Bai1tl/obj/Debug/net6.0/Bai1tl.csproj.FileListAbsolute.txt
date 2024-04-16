@@ -1,0 +1,15 @@
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\bin\Debug\net6.0\Bai1tl.exe
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\bin\Debug\net6.0\Bai1tl.deps.json
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\bin\Debug\net6.0\Bai1tl.runtimeconfig.json
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\bin\Debug\net6.0\Bai1tl.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\bin\Debug\net6.0\Bai1tl.pdb
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\obj\Debug\net6.0\Bai1tl.csproj.AssemblyReference.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\obj\Debug\net6.0\Bai1tl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\obj\Debug\net6.0\Bai1tl.AssemblyInfoInputs.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\obj\Debug\net6.0\Bai1tl.AssemblyInfo.cs
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\obj\Debug\net6.0\Bai1tl.csproj.CoreCompileInputs.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\obj\Debug\net6.0\Bai1tl.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\obj\Debug\net6.0\refint\Bai1tl.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\obj\Debug\net6.0\Bai1tl.pdb
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\obj\Debug\net6.0\Bai1tl.genruntimeconfig.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai1tl\obj\Debug\net6.0\ref\Bai1tl.dll

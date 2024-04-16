@@ -1,0 +1,15 @@
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\bin\Debug\net6.0\Bai6.exe
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\bin\Debug\net6.0\Bai6.deps.json
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\bin\Debug\net6.0\Bai6.runtimeconfig.json
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\bin\Debug\net6.0\Bai6.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\bin\Debug\net6.0\Bai6.pdb
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\obj\Debug\net6.0\Bai6.csproj.AssemblyReference.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\obj\Debug\net6.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\obj\Debug\net6.0\Bai6.AssemblyInfoInputs.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\obj\Debug\net6.0\Bai6.AssemblyInfo.cs
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\obj\Debug\net6.0\Bai6.csproj.CoreCompileInputs.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\obj\Debug\net6.0\Bai6.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\obj\Debug\net6.0\refint\Bai6.dll
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\obj\Debug\net6.0\Bai6.pdb
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\obj\Debug\net6.0\Bai6.genruntimeconfig.cache
+D:\Chế Mậu Hành_năm 3_kỳ 1\OOP\Chuong6\Bai6\obj\Debug\net6.0\ref\Bai6.dll
